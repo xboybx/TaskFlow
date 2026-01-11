@@ -1,0 +1,6 @@
+/* App.css is largely replaced by Tailwind in index.css */
+/* Keeping it empty to avoid conflicts with the new design system */
+#root {
+  /* Ensure root takes full height if needed */
+  width: 100%;
+}
